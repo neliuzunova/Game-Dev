@@ -110,7 +110,7 @@
 -define:UNITY_POST_PROCESSING_STACK_V2
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
--r:"C:/Neli/гаме-деж-хомеворк/unity-games/homework1/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+-r:"C:/Neli/ФМИ/4 курс/8 семестър/игри/homework/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Managed/UnityEngine/UnityEditor.dll"

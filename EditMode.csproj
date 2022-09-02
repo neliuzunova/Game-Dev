@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F466E765-9B91-4F67-068C-F41E636C2D7B}</ProjectGuid>
+    <ProjectGuid>{261DF9CE-7E8A-822B-7A5B-51AD00959D78}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>EditMode</AssemblyName>
@@ -660,7 +660,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="NewAssembly.csproj">
-      <Project>{1219CBF0-779F-DBF9-9EB7-F561FDE6EB80}</Project>
+      <Project>{80697737-90B9-3A4A-509D-089E8FD5ACF3}</Project>
       <Name>NewAssembly</Name>
     </ProjectReference>
   </ItemGroup>
